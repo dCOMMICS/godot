@@ -131,6 +131,8 @@ you should probably split your changes in several commits :)
 Here's an example of a well-formatted commit message (note how the extended
 description is also manually wrapped at 80 chars for readability):
 
+
+
 ```text
 Prevent French fries carbonization by fixing heat regulation
 
